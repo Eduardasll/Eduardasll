@@ -25,4 +25,4 @@ Consolidar meus conhecimentos em desenvolvimento front-end, buscando uma oportun
 ## 📫 Contato
 
 - LinkedIn: [https://www.linkedin.com/in/eduardasl/](https://www.linkedin.com/in/eduardasl/)
-- Email: eduardasilveraima@gmail.com
+- Email: eduardasilveralima@gmail.com
