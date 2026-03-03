@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou a Eduarda 👋
 
-<!--
-**Eduardasll/Eduardasll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet 
+💻 Focada em desenvolvimento Front-end   
+🚀 Em busca de estágio na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que estou aprendendo
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Linguagem C
+
+---
+
+## 🎯 Objetivo
+
+Consolidar meus conhecimentos em desenvolvimento front-end, buscando uma oportunidade de estágio para aplicar e expandir minhas habilidades na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+LinkedIn: [https://www.linkedin.com/in/eduardasl/](https://www.linkedin.com/in/eduardasl/)
+Email: eduardasilveraima@gmail.com
