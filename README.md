@@ -1,7 +1,7 @@
 # Olá! Eu sou a Eduarda 👋
 
-🎓 Estudante de Sistemas para Internet 
-💻 Focada em desenvolvimento Front-end   
+🎓 Estudante de Sistemas para Internet <br>
+💻 Focada em desenvolvimento Front-end <br>  
 🚀 Em busca de estágio na área de tecnologia  
 
 ---
@@ -24,5 +24,5 @@ Consolidar meus conhecimentos em desenvolvimento front-end, buscando uma oportun
 
 ## 📫 Contato
 
-LinkedIn: [https://www.linkedin.com/in/eduardasl/](https://www.linkedin.com/in/eduardasl/)
-Email: eduardasilveraima@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/eduardasl/](https://www.linkedin.com/in/eduardasl/)
+- Email: eduardasilveraima@gmail.com
