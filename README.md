@@ -8,6 +8,8 @@
 
 ## 🛠 Tecnologias que estou aprendendo
 
+- Java
+- Sprig boot
 - HTML
 - CSS
 - JavaScript
