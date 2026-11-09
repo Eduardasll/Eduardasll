@@ -9,7 +9,7 @@
 ## 🛠 Tecnologias que estou aprendendo
 
 - Java
-- Sprig boot
+- Spring Boot
 - HTML
 - CSS
 - JavaScript
