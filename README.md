@@ -1,7 +1,7 @@
 # Olá! Eu sou a Eduarda 👋
 
 🎓 Estudante de Sistemas para Internet <br>
-💻 Focada em desenvolvimento Front-end <br>
+💻 Focada em desenvolvimento Full Stack <br>
 🚀 Em busca de estágio na área de tecnologia  
 
 ---
